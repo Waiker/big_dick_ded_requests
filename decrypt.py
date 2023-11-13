@@ -1,6 +1,5 @@
 # Функция для расшифровки текста
 def decrypt(text):
-    # Ваш код для расшифровки текста
     decrypted_text = ""
     for char in text:
         if char.isalpha():
